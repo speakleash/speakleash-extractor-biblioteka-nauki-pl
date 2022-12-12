@@ -1,0 +1,13 @@
+requests
+tqdm
+os
+lm_dataformat
+shutil
+spacy
+json
+glob
+https://github.com/explosion/spacy-models/releases/download/pl_core_news_md-3.2.0/pl_core_news_md-3.2.0.tar.gz
+PyMuPDF
+xml
+urllib
+multiprocessing
